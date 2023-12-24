@@ -1,2 +1,2 @@
-# gaurav-projects
-There will be my  web projects repository
+# Gaurav-projects
+There will be my  web projects repository.
